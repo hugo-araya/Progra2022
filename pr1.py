@@ -1,0 +1,1 @@
+print ('Su ganancia es: ', int(input('Ingrese el capital: ')) * 0.02)
