@@ -1,0 +1,7 @@
+sal = open('ht.html', 'w')
+sal.write('<html>\n')
+sal.write('<Body bgcolor="aaaaaa">\n')
+sal.write("Hola Mundo\n")
+sal.write('</Body>\n')
+sal.write('</html>\n')
+sal.close()
